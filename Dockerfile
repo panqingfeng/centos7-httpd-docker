@@ -11,6 +11,8 @@ RUN yum -y install epel-release \
             google-noto-sans-cjk-fonts \
             mod_fcgid \
             mod_ssl \
+            net-tools \
+            telnet \
             httpd \
             gcc-c++ \
             nodejs \
